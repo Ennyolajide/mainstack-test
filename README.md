@@ -43,7 +43,6 @@ Make sure you have the following installed:
 
     ```bash
     npm test
-    ```
     
 ### Running the Project
 
@@ -51,7 +50,6 @@ Make sure you have the following installed:
 
     ```bash
     npm start
-    ```
 
    the application will be accessible at http://localhost:3000 by default.
 
