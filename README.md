@@ -1,6 +1,6 @@
 # mainstack-test
 
-A brief description of your project.
+Manging Products.
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -39,22 +39,30 @@ Make sure you have the following installed:
 
 ### Runing Tests
 
-**Run the test suite:**
+   **Run the test suite:**
+
     ```bash
     npm test
+    ```
 
 ### Running the Project
 
-**Start the projec:**
+   **Start the projec:**
+
     ```bash
     npm start
+    ```
 
-***The application will be accessible at http://localhost:3000 by default.***
+   the application will be accessible at http://localhost:3000 by default.
 
 ## Usage
 
-### API Documentation
+### API Documentation and Texting
 
-https://www.postman.com/cloudy-zodiac-724171/workspace/olajide-eniseyin-public/collection/6362674-ff5de989-58b1-4abc-a313-075e0665073f?
+The API is documented using Postman. You can view the API documentation and run tests by visiting the [Postman Collection](https://www.postman.com/cloudy-zodiac-724171/workspace/olajide-eniseyin-public/collection/6362674-ff5de989-58b1-4abc-a313-075e0665073f?). Each request in the collection includes tests that can be run by clicking the "Run" button in Postman.
+
+- [API Documentation and Testing](https://www.postman.com/cloudy-zodiac-724171/workspace/olajide-eniseyin-public/collection/6362674-ff5de989-58b1-4abc-a313-075e0665073f)
+
+
 
 
