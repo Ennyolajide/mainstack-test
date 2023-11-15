@@ -41,14 +41,12 @@ Make sure you have the following installed:
 
    **Run the test suite:**
 
-    ```bash
     npm test
     
 ### Running the Project
 
    **Start the projec:**
 
-    ```bash
     npm start
 
    the application will be accessible at http://localhost:3000 by default.
