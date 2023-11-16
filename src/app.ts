@@ -9,7 +9,7 @@ dotenv.config();
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect(encodeURIComponent(process.env.MONGODB_URI || ''));
+mongoose.connect(process.env.MONGODB_URI || '');
 
 app.use(express.json());
 
